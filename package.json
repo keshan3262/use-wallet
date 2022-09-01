@@ -1,7 +1,7 @@
 {
-  "name": "use-wallet",
+  "name": "@keshan3262/use-wallet",
   "version": "0.13.5",
-  "author": "Aragon Association <legal@aragon.org>",
+  "author": "Inokentii Mazhara <keshan3262@gmail.com>",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
